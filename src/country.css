@@ -1,0 +1,118 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-left: 350px;
+    position: relative;
+    justify-content: center;
+    width: 50%;
+}
+.search-icon{
+    width: 20px;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    
+}
+
+.fa-search {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.country-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.country-info {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    
+}
+
+.country-flag img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+  
+}
+
+.country-details {
+    flex: 1;
+}
+
+/* @media (max-width: 768px) {
+    .country-flag img {
+        width: 40px;
+        height: 40px;
+    }
+} */
+
+body {
+    background-image: url(../public/image/backgroundimage.jpg);
+    /* background-repeat: no-repeat; */
+    height: 100%;
+}
+
+.templateContainer {
+    margin: 5% 0;
+   
+}
+.templateContainer .searchInput_Container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    animation: ease-out 1s;
+    
+}
+.templateContainer .searchInput_Container input {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 10px;
+    outline: none;
+}
+.templateContainer .template_Container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 3px;
+}
+.templateContainer .template_Container .template {
+    background-color: white;
+    margin: 30px;
+    padding: 0px 20px;
+}
+.templateContainer .template_Container .template img {
+    height: 250px;
+}
+
+.searchInput_container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

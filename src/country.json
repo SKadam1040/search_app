@@ -1,0 +1,98 @@
+[
+    {
+      "name": "United States",
+      "country": "Washington, D.C.",
+      "currency": "USD",
+      "flag": "https://flagsapi.com/US/flat/64.png"
+    },
+    {
+      "name": "Canada",
+      "country": "Ottawa",
+      "currency": "CAD",
+      "flag": "https://flagsapi.com/CA/flat/64.png"
+    },
+    {
+      "name": "United Kingdom",
+      "country": "London",
+      "currency": "GBP",
+      "flag": "https://flagsapi.com/GB/flat/64.png"
+    },
+    {
+      "name": "Australia",
+      "country": "Canberra",
+      "currency": "AUD",
+      "flag": "https://flagsapi.com/AU/flat/64.png"
+    },
+    {
+      "name": "Germany",
+      "country": "Berlin",
+      "currency": "EUR",
+      "flag": "https://flagsapi.com/DE/flat/64.png"
+    },
+    {
+      "name": "France",
+      "country": "Paris",
+      "currency": "EUR",
+      "flag": "https://flagsapi.com/FR/flat/64.png"
+    },
+    {
+      "name": "China",
+      "country": "Beijing",
+      "currency": "CNY",
+      "flag": "https://flagsapi.com/CN/flat/64.png"
+    },
+    {
+      "name": "India",
+      "country": "New Delhi",
+      "currency": "INR",
+      "flag": "https://flagsapi.com/IN/flat/64.png"
+    },
+    {
+      "name": "Japan",
+      "country": "Tokyo",
+      "currency": "JPY",
+      "flag": "https://flagsapi.com/JP/flat/64.png"
+    },
+    {
+      "name": "Brazil",
+      "country": "Brasília",
+      "currency": "BRL",
+      "flag": "https://flagsapi.com/BR/flat/64.png"
+    },
+    {
+      "name": "Russia",
+      "country": "Moscow",
+      "currency": "RUB",
+      "flag": "https://flagsapi.com/GB/flat/64.png"
+    },
+    {
+      "name": "South Africa",
+      "country": "Pretoria",
+      "currency": "ZAR",
+      "flag": "https://flagsapi.com/ZA/flat/64.png"
+    },
+    {
+      "name": "Saudi Arabia",
+      "country": "Riyadh",
+      "currency": "SAR",
+      "flag": "https://flagsapi.com/GB/flat/64.png"
+    },
+    {
+      "name": "Mexico",
+      "country": "Mexico City",
+      "currency": "MXN",
+      "flag": "https://flagsapi.com/MX/flat/64.png"
+    },
+    {
+      "name": "South Korea",
+      "country": "Seoul",
+      "currency": "KRW",
+      "flag": "https://flagsapi.com/GB/flat/64.png"
+    },
+    {
+      "name": "Italy",
+      "country": "Rome",
+      "currency": "EUR",
+      "flag": "https://flagsapi.com/IT/flat/64.png"
+    }
+  ]
